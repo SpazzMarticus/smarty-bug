@@ -1,6 +1,6 @@
 This repo shows a bug in the smarty template engine. (v3.1.30)
 
-Link to the issue: 
+Link to the issue: https://github.com/smarty-php/smarty/issues/312
 
 ## Usage
 
@@ -11,7 +11,7 @@ composer test
 
 ## Output
 
-The output will be something like: https://github.com/smarty-php/smarty/issues/312
+The output will be something like: 
 
 ```
 $ composer test
