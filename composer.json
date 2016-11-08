@@ -1,0 +1,10 @@
+{
+    "name": "spazzmarticus/smarty-bug",
+    "require": {
+        "smarty/smarty": "^3.1",
+        "phpunit/phpunit": "^5.6"
+    },
+    "scripts": {
+        "test": "phpunit ./InheritanceTest.php"
+    }
+}

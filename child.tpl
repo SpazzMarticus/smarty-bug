@@ -1,0 +1,1 @@
+{extends 'base.tpl'}{block name=elementContent}{$e->getHTML()}{/block}
