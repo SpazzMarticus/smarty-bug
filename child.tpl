@@ -1,1 +1,1 @@
-{extends 'base.tpl'}{block name=elementContent}{$e->getHTML()}{/block}
+{extends 'base.tpl'}{block name=elementContent}{$e->getText()}{/block}

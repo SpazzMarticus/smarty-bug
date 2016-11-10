@@ -1,7 +1,7 @@
 {
     "name": "spazzmarticus/smarty-bug",
     "require": {
-        "smarty/smarty": "^3.1",
+        "smarty/smarty": "dev-master#e867ae125e95ff629eb3b748eb222200f50e1769",
         "phpunit/phpunit": "^5.6"
     },
     "scripts": {
